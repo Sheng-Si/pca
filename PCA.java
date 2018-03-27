@@ -1,5 +1,3 @@
-package cn.nsoc.ml.tf.model.local;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
