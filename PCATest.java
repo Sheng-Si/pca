@@ -1,5 +1,3 @@
-package cn.nsoc.ml.tf.model.local;
-
 import junit.framework.TestCase;
 
 public class PCATest extends TestCase{
